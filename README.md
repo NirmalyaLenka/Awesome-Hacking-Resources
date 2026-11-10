@@ -504,6 +504,16 @@ Released under [GPL-3.0](LICENSE).
 
 ---
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `LICENSE`
+- `README.md`
+- `contributing.md`
+- `tools.md`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
